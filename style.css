@@ -365,9 +365,8 @@ table {
     justify-content: center;
     align-items: center;
     padding: 80px 20px;
-    background: url('student.png') no-repeat center center/cover;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%), url('student.png');
     min-height: 400px;
-  
 }
 
 .contact-form {
